@@ -8,3 +8,5 @@ An interactive beginner-friendly console-based RPG menu practice project managin
 
 # How to run
 You can easily run this code using any standard C compiler or an IDE like Visual Studio / VS Code. Just open the file and run it.
+
+*Created as a lab assignment to practice C fundamentals.*
